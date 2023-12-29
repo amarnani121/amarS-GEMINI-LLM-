@@ -1,6 +1,4 @@
 streamlit
 google-generativeai
 python-dotenv
-google gen ai api
 streamlit
- run c:\Users\91630\OneDrive\Desktop\End-To-End-Gemini-Project-main\End-To-End-Gemini-Project-main\qachat.py
